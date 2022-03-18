@@ -1,0 +1,15 @@
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.AssemblyInfoInputs.cache
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.AssemblyInfo.cs
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.csproj.CoreCompileInputs.cache
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\Bbk.Data.deps.json
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\Bbk.Data.dll
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\ref\Bbk.Data.dll
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\Bbk.Data.pdb
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.dll
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\ref\Bbk.Data.dll
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.pdb
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\Bbk.Data.runtimeconfig.json
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\bin\Debug\net5.0\Bbk.Data.runtimeconfig.dev.json
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.genruntimeconfig.cache
+C:\leaning\NetCore\Bbk.Solution\Bbk.Data\obj\Debug\net5.0\Bbk.Data.csproj.AssemblyReference.cache
