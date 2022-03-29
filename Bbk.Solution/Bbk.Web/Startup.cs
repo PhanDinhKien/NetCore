@@ -1,6 +1,9 @@
+using Bbk.Data.EntityFramework;
+using Bbk.Data.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +26,17 @@ namespace Bbk.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = "localhost:4455";
+            });
+
+            services.AddDbContext<BBKDbContext>(options =>options.UseSqlServer(Configuration.GetConnectionString("BbkConnectionString")));
+
+            services.AddScoped<IUserRepository, UserRepository>(); 
+            
+
             services.AddControllersWithViews();
         }
 
